@@ -1,0 +1,12 @@
+<resources>
+    <string name = "app_name">Counter</string>
+    <string name = "TextView">0</string>
+    <string name = "Button">Random</string>
+    <string name = "count_button">Count</string>
+    <string name = "toast_button">Toast</string>
+    <string name = "reset_button"> Reset</string>
+    <string-array name = "TextView2">
+        <item>Here is a random number</item>
+        <item>between 0 and %d</item>
+    </string-array>
+</resources>
